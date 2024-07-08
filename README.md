@@ -10,3 +10,7 @@
   
 
 * Advanced - Multilayer Bidirectional LSTM Model
+
+
+
+* Dataset link - https://www.kaggle.com/competitions/nlp-getting-started/data
